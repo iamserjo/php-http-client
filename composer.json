@@ -1,5 +1,5 @@
 {
-    "name": "sendgrid/php-http-client",
+    "name": "iamserjo/php-http-client",
     "description": "HTTP REST client, simplified for PHP",
     "type": "library",
     "homepage": "http://github.com/sendgrid/php-http-client",
